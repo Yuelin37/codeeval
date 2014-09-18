@@ -5,6 +5,8 @@ public class Test {
 		System.out.println(Math.pow(2, 3));
 		System.out.println(new StringBuilder("hi").reverse().toString());
 		
+		
+		
 
 	}
 
