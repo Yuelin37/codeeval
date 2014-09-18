@@ -1,4 +1,4 @@
-package codeeval;
+package LongestWord;
 
 public class test {
 
